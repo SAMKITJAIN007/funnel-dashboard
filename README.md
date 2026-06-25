@@ -1,3 +1,4 @@
+![Dashboard Preview](dashboard_screenshot.png)
 ## Customer Funnel & Conversion Dashboard
 
 A marketing analytics dashboard built with Python and Streamlit.
